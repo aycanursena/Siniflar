@@ -1,3 +1,4 @@
+```
 package MaasHesaplayici;
 
 public class Main {
@@ -9,3 +10,4 @@ public class Main {
         e1.toPrint();
     }
 }
+```
