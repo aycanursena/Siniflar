@@ -1,3 +1,4 @@
+```
 package OgrenciBilgiSistemi;
 
 public class Course {
@@ -33,3 +34,4 @@ public class Course {
         return this.ders_ort;
     }
 }
+```
