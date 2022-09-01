@@ -1,3 +1,4 @@
+```
 package OgrenciBilgiSistemi;
 
 public class Main {
@@ -19,3 +20,4 @@ public class Main {
         s1.isPass();
     }
 }
+```
