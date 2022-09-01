@@ -1,3 +1,4 @@
+```
 package MaasHesaplayici;
 
 public class employee {
@@ -53,3 +54,4 @@ public class employee {
         System.out.println("Toplam maaş : " + (this.salary + bonus + raiseSalary - tax));
     }
 }
+```
