@@ -1,3 +1,4 @@
+```
 package BoksMaci;
 
 public class Musabaka {
@@ -48,3 +49,4 @@ public class Musabaka {
             return false;
     }
 }
+```
