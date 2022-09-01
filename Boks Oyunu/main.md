@@ -1,3 +1,4 @@
+```
 package BoksMaci;
 
 public class main {
@@ -8,3 +9,4 @@ public class main {
         mac.Basla();
     }
 }
+```
