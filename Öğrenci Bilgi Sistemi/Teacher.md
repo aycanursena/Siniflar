@@ -1,3 +1,4 @@
+```
 package OgrenciBilgiSistemi;
 
 public class Teacher {
@@ -16,3 +17,4 @@ public class Teacher {
         System.out.println("Öğretmenin telefon numarası : " + this.mpno);
     }
 }
+```
