@@ -1,3 +1,4 @@
+```
 package BoksMaci;
 
 public class Boksor {
@@ -32,3 +33,4 @@ public class Boksor {
         return randomNumber <= this.dodge;
     }
 }
+```
